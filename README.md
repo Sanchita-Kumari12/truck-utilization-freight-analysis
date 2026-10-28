@@ -25,4 +25,4 @@ Find where truck capacity is wasted and estimate the cost saving from load conso
 - Truck_Utilization_Analysis.xlsx: data, formulas, summary and charts
 
 ## Tools
-Excel, Python (Pandas, Matplotlib)
+Excel
